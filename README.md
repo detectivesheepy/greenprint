@@ -11,3 +11,5 @@ A new website structure made to deploy on Vercel with many different integration
 - Next.js 14 with App Router
 - TypeScript support
 - ESLint configuration
+- Vercel Authentiation
+- Prevention of bot trafficing
