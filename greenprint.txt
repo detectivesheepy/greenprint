@@ -1,0 +1,5 @@
+-- greenprint txt
+DO NOT DELETE
+
+This site uses the greenprint structure
+https://github.com/detectivesheepy/greenprint
